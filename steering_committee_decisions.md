@@ -112,3 +112,11 @@ Gregobase is used for storing GABC files.
 GABC/NABC and Gregorio are used for the rendering of scores.
 
 Agreement of the Steering Committee : TODO
+
+## Licensing and finances
+
+(Matthias) The project is public and published under GPL. This is in order to get the largest number of people to help.
+Anyone can therefore print the book. However, printing one book should be costlier than buying it from whoever the final printer/distributor will be.
+The book is essentially produced through volunteer work. Final pricing should cover the cost of printing and distribution.
+
+Agreement of the Steering Committee : TODO
