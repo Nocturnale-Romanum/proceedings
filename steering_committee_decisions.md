@@ -87,4 +87,28 @@ Steering committee decision: TODO
 
 (Matthias) Should we anticipate the possibility of red ink, or only black ?
 
+## Project Organization
 
+(Matthias) The project is organized as follows : 
+
+Matthias is project management officer and organizes things as much as possible. He specially oversees typographical activities. 
+
+Anne is adjunct project management officer and oversees musicological activities.  Anne also leads recruitment.
+
+The Steering Committee makes top-level decisions regarding editorial guidelines and project management, such as those found in this document. The initial steering committee admits new members with a clear will to be as broad as possible, to ensure maximum reception of the Nocturnale Romanum. The Steering Committee meets every month by Video Call, as far as possible.
+
+There should be, in the long term, a graphics designer, a lead typesetter, a lead paleographist, a PR officer, a tools&methods officer, a team of typesetters and a team of paleographists.
+
+Agreement of the Steering Committee : TODO
+
+## Fundamental Tools
+
+The project is managed and hosted on Github.
+
+Latex is used for producing the documents.
+
+Gregobase is used for storing GABC files.
+
+GABC/NABC and Gregorio are used for the rendering of scores.
+
+Agreement of the Steering Committee : TODO
