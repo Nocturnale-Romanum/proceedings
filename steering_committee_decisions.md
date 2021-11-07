@@ -90,7 +90,7 @@ Steering committee decision: TODO
 ## Project Organization
 
 (Matthias) The project is organized as follows : 
-
+1. Team
 Matthias is project management officer and organizes things as much as possible. He specially oversees typographical activities. 
 
 Anne is adjunct project management officer and oversees musicological activities.  Anne also leads recruitment.
@@ -99,6 +99,11 @@ The Steering Committee makes top-level decisions regarding editorial guidelines 
 
 There should be, in the long term, a graphics designer, a lead typesetter, a lead paleographist, a PR officer, a tools&methods officer, a team of typesetters and a team of paleographists.
 
+2. Project stages
+- Preliminary design: team recruitment, indexation of pieces to be found in NR, indexation of existing scientific restitutions for pieces in NR, indexation of available sources, agreement on project objectives (such as publishing a free-as-in-freedom document), agreement on editorial guidelines, initial rubrical audit.
+- Detailed design: restitution of all missing pieces, composition or correction of neo-gregorian pieces that do not have magisterial approval yet, compilation of all pieces in a document
+- Pre-production: cross-review of all restitutions, final rubrical audit, spelling checks, proof printing. Pre-production is followed by one year where interested parties use the proof prints for singing Matins and send corrections.
+- Production: integration of all corrections, printer and binder contracts, distribution network contracts, production and sales launch.
 Agreement of the Steering Committee : TODO
 
 ## Fundamental Tools
